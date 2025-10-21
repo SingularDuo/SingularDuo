@@ -15,7 +15,7 @@ Currently focused on **mastering Competitive Programming** concepts and practice
 ![](https://github-profile-trophy.vercel.app/?username=SingularDuo&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SingularDuo&icon=2&color=2)](https://visitcount.itsvg.in)
