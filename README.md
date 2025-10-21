@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 Competitive Programming enthusiast, actively learning and practicing to sharpen algorithms and problem-solving skills. Dedicated and hard-working coder driven by passion and persistence.<br>🌱 Growth-Focused Coder | Passionately diving into the world of Competitive Programming to refine my technical and problem-solving abilities. Hard work is my genius.<br>👨‍💻 Dedicated Learner & Coder Currently focused on mastering Competitive Programming concepts and practice. I believe in consistent, hard work over innate talent, fueling my journey with genuine passion and persistence.
+🔭 **Competitive Programming** enthusiast, actively learning and practicing to sharpen algorithms and problem-solving skills. Dedicated and **hard-working coder** driven by passion and persistence.
+🌱 **Growth-Focused Coder** | Passionately diving into the world of **Competitive Programming** to refine my technical and problem-solving abilities. **Hard work is my genius.**
+👨‍💻 **Dedicated Learner & Coder**
+Currently focused on **mastering Competitive Programming** concepts and practice. I believe in consistent, **hard work** over innate talent, fueling my journey with genuine **passion and persistence**.
 
 
 ## 🌐 Socials:
