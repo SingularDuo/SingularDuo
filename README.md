@@ -1,41 +1,21 @@
-<h1 align="center">Hi 👋, I'm Phat</h1>
-<h3 align="center">An student from Viet Nam, also an coder 🧑‍💻💻</h3>
+# 💫 About Me:
+🔭 Competitive Programming enthusiast, actively learning and practicing to sharpen algorithms and problem-solving skills. Dedicated and hard-working coder driven by passion and persistence.<br>🌱 Growth-Focused Coder | Passionately diving into the world of Competitive Programming to refine my technical and problem-solving abilities. Hard work is my genius.<br>👨‍💻 Dedicated Learner & Coder Currently focused on mastering Competitive Programming concepts and practice. I believe in consistent, hard work over innate talent, fueling my journey with genuine passion and persistence.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singularduo&label=Profile%20views&color=0e75b6&style=flat" alt="singularduo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singularduo" alt="singularduo" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ezub) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ucphatkieu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asdeferer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ezub!) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ducphatkieu@gmail.com) 
 
-- 🔭 I’m currently working on [C++ Competitive Training](https://www.facebook.com/ucphatkieu/)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SingularDuo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SingularDuo&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SingularDuo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **C++ Competitive Programming**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SingularDuo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👯 I’m looking to collaborate on [Youtube](https://www.facebook.com/ucphatkieu/)
+---
+[![](https://visitcount.itsvg.in/api?id=SingularDuo&icon=2&color=2)](https://visitcount.itsvg.in)
 
-- 🤝 I’m looking for help with [C++ Competitive Training](https://www.facebook.com/ucphatkieu/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/SingularDuo](https://github.com/SingularDuo)
-
-- 💬 Ask me about **thinking and implementation**
-
-- 📫 How to reach me **ducphatkieu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/29373242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29373242" height="30" width="40" /></a>
-<a href="https://fb.com/đức phát kiều - https://www.facebook.com/ucphatkieu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đức phát kiều - https://www.facebook.com/ucphatkieu/" height="30" width="40" /></a>
-<a href="https://instagram.com/asdeferer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asdeferer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ezub!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ezub!" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ducphatkieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ducphatkieu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ohvwhbkihd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ohvwhbkihd" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<https://www.geeksforgeeks.org/user/ducphatu2a/>https://www.geeksforgeeks.org/user/ducphatu2a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<https://www.geeksforgeeks.org/user/ducphatu2a/>https://www.geeksforgeeks.org/user/ducphatu2a/" height="30" width="40" /></a>
-<a href="https://discord.gg/profile: https://discordapp.com/users/891969436196679690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="profile: https://discordapp.com/users/891969436196679690" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singularduo&show_icons=true&locale=en&layout=compact" alt="singularduo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singularduo&show_icons=true&locale=en" alt="singularduo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singularduo&" alt="singularduo" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
